@@ -1,0 +1,10 @@
+color f0 => cambia de color la pantalla
+color 0f=> cambia al coor negro de nuevo
+color /? => muestra la opciones de colores
+
+cd=> para entrar en carpeta
+cd ../ => regresar un directorio
+cd / => regresa ala raiz
+mkdir nombre de la carpeta => crea carpeta
+rmdir nombre de la carpeta=> elimina una carpeta
+dir => muestra las carpetas
