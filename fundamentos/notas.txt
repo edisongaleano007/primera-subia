@@ -8,3 +8,4 @@ cd / => regresa ala raiz
 mkdir nombre de la carpeta => crea carpeta
 rmdir nombre de la carpeta=> elimina una carpeta
 dir => muestra las carpetas
+ls => muestra los archivos de las carpetas
